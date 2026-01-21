@@ -149,7 +149,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/mahdiiii04.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # ------------ The following options are not recommended to be modified ------------------
 
