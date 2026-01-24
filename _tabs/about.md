@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Artificial Intelligence student with a strong interest in theoretical research at the intersection of multi-agent reinforcement learning, game theory, and human-inspired strategic behavior. Particularly focused on mathematical modeling of decision-making systems and emergent interaction dynamics.

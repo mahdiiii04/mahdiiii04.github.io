@@ -1,0 +1,11 @@
+# The navigation tabs in the sidebar
+- title: Home
+  url: /
+  icon: fas fa-home
+- title: Categories
+  url: /categories/
+  icon: fas fa-stream
+
+- title: About
+  url: /about/
+  icon: fas fa-info-circle
