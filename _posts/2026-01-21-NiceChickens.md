@@ -1,6 +1,6 @@
 ---
 title: "Nice Chickens: How Can Empathy Affect Decision-Making in AI?"
-date: 2026-01-22 12:00:00 +0100
+date: 2026-01-20 12:00:00 +0100
 categories: [Experiments, MARL-GT]
 tags: [multi-agent reinforcement learning, game theory, empathy, chicken game]
 description: "A MARL / GT experiment introducing engineered empathy as a reward."
